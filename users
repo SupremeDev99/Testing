@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "spdev",
+      "password": "spdev",
+      "expiration_date": "2023-11-15"
+    },
+    {
+      "username": "user2",
+      "password": "password2",
+      "expiration_date": "2024-05-15"
+    },
+  ]
+}
