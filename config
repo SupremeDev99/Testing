@@ -88,9 +88,10 @@
   ],
   "Payloads": [
 {
-    "Name": "Sri Lanka Mobitel Zero 01🇱🇰",
+    "Name": "Sri Lanka Mobitel Zero",
+    "subName": "Test 1",
+    "Flag": "LK",
     "Payload": "vmess:\/\/eyJhZGQiOiIxMzkuNTkuMTIyLjIxMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwiaG9zdCI6Im0uaW5zdGFncmFtLmNvbSIsImlkIjoiMDMzZmMwMTktZWQwMS00MzFmLTk2Y2UtNTI0MDg3ZTNlYzYyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODA4MCIsInBzIjoi8J+agCBNYXJ6IChmcmVlbXplcm8pIFtWTWVzcyAtIHdzXSIsInRscyI6Im5vbmUiLCJzbmkiOiJtLmluc3RhZ3JhbS5jb20iLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-    "Info": "Test",
     "TunnelType": 7,
     "FrontQuery": "",
     "BackQuery": "",
@@ -102,5 +103,5 @@
     }
 }
   ],
-  "Notes": "Test Update"
+  "Notes": "Fuck Update"
 }
