@@ -5,13 +5,13 @@
       "Name": "Server 01",
       "subName": "Test 1",
       "Flag": "LK",
-      "ServerIPHost": "1.1.1.1",
+      "ServerIPHost": "rased.rasedmx.xyz",
       "ServerCloudFrontHost": "",
       "ServerHTTPHost": "",
       "OpenVPNTCPPort": "1193",
       "OpenVPNSSLPort": "443",
-      "Username": "Dmc",
-      "Password": "Vfdv"
+      "Username": "ghosthouse",
+      "Password": "4349635"
     },
     {
       "Name": "Server 02",
@@ -87,6 +87,19 @@
     }
   ],
   "Payloads": [
+{
+    "Name": "📶Instagram Package❤️",
+    "subName": "Test 1",
+    "Flag": "LK",
+    "SNIHost": "m.instagram.com",
+    "Payload": "",
+    "TunnelType": 3,
+    "ServerHostDNS": "cf",
+    "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+    }
+},
 {
     "Name": "Sri Lanka Mobitel Zero",
     "subName": "Test 1",
