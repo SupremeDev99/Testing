@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.0",
   "Servers": [
     {
       "Name": "Server 01",
@@ -14,8 +14,8 @@
       "Password": "4349635"
     }
   ],
-"Networks": [
-{
+  "Networks": [
+  {
     "Name": "Sri Lanka Mobitel Zero",
     "subName": "Test 1",
     "Flag": "LK",
@@ -28,10 +28,10 @@
     "ProxySettings": {
         "Squid": "[Default]",
         "Port": ""
-    }
-}
-  "SSLNetworks": [
-{
+        }
+        },
+        "SSLNetworks": [
+        {
     "Name": "📶Instagram Package❤️",
     "subName": "Test 1",
     "Flag": "LK",
