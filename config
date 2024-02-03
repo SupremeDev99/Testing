@@ -1,11 +1,12 @@
 {
-    "Version": "1.0.3",
+    "Version": "1.0.4",
    "Servers": [
     {
       "Name": "Server 01",
       "subName": "Test 1",
       "Flag": "LK",
       "ServerIPHost": "rased.rasedmx.xyz",
+      "ServerCloudFrontHost": "",
       "OpenVPNTCPPort": "1193",
       "OpenVPNSSLPort": "443",
       "Username": "ghosthouse",
