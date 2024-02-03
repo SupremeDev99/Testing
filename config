@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0",
+  "Version": "1.0.2",
   "Servers": [
     {
       "Name": "Server 01",
@@ -14,23 +14,7 @@
       "Password": "4349635"
     }
   ],
-  "Networks": [
-  {
-    "Name": "Sri Lanka Mobitel Zero",
-    "subName": "Test 1",
-    "Flag": "LK",
-    "Payload": "vmess:\/\/eyJhZGQiOiIxMzkuNTkuMTIyLjIxMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwiaG9zdCI6Im0uaW5zdGFncmFtLmNvbSIsImlkIjoiMDMzZmMwMTktZWQwMS00MzFmLTk2Y2UtNTI0MDg3ZTNlYzYyIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiODA4MCIsInBzIjoi8J+agCBNYXJ6IChmcmVlbXplcm8pIFtWTWVzcyAtIHdzXSIsInRscyI6Im5vbmUiLCJzbmkiOiJtLmluc3RhZ3JhbS5jb20iLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-    "TunnelType": 7,
-    "FrontQuery": "",
-    "BackQuery": "",
-    "Priority": 0,
-    "ServerHostDNS": "cf",
-    "ProxySettings": {
-        "Squid": "[Default]",
-        "Port": ""
-        }
-        },
-        "SSLNetworks": [
+  "SSLNetworks": [
         {
     "Name": "📶Instagram Package❤️",
     "subName": "Test 1",
