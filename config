@@ -1,33 +1,33 @@
 {
-  "Version": "1.0.2",
-  "Servers": [
+    "Version": "1.0.3",
+   "Servers": [
     {
       "Name": "Server 01",
       "subName": "Test 1",
       "Flag": "LK",
       "ServerIPHost": "rased.rasedmx.xyz",
-      "ServerCloudFrontHost": "",
-      "ServerHTTPHost": "",
       "OpenVPNTCPPort": "1193",
       "OpenVPNSSLPort": "443",
       "Username": "ghosthouse",
       "Password": "4349635"
     }
   ],
-  "SSLNetworks": [
+    "Networks": [
+    
+    ],
+    "SSLNetworks": [
         {
-    "Name": "📶Instagram Package❤️",
-    "subName": "Test 1",
-    "Flag": "LK",
-    "SNIHost": "m.instagram.com",
-    "Payload": "",
-    "TunnelType": 3,
-    "ServerHostDNS": "cf",
-    "ProxySettings": {
-        "Squid": "[Default]",
-        "Port": ""
-    }
-}
-  ],
-  "Notes": "Fuck Update"
+            "Name": "📶Instagram Package❤️",
+            "subName": "Test 1",
+            "Payload": "",
+            "SNIHost": "m.instagram.com",
+            "TunnelType": 3,
+            "CustomSSLPort": "443",
+            "ProxySettings": {
+                "Squid": "[Default]",
+                "Port": ""
+            }
+        }
+    ],
+    "Notes": "FUCK YOU"
 }
