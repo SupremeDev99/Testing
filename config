@@ -14,20 +14,7 @@
       "Password": "4349635"
     }
   ],
-  "SSLNetworks": [
-{
-    "Name": "📶Instagram Package❤️",
-    "subName": "Test 1",
-    "Flag": "LK",
-    "SNIHost": "m.instagram.com",
-    "Payload": "",
-    "TunnelType": 3,
-    "ServerHostDNS": "cf",
-    "ProxySettings": {
-        "Squid": "[Default]",
-        "Port": ""
-    }
-},
+"Networks": [
 {
     "Name": "Sri Lanka Mobitel Zero",
     "subName": "Test 1",
@@ -37,6 +24,20 @@
     "FrontQuery": "",
     "BackQuery": "",
     "Priority": 0,
+    "ServerHostDNS": "cf",
+    "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+    }
+}
+  "SSLNetworks": [
+{
+    "Name": "📶Instagram Package❤️",
+    "subName": "Test 1",
+    "Flag": "LK",
+    "SNIHost": "m.instagram.com",
+    "Payload": "",
+    "TunnelType": 3,
     "ServerHostDNS": "cf",
     "ProxySettings": {
         "Squid": "[Default]",
