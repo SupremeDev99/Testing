@@ -47,36 +47,32 @@
         "xudpConcurrency": 8,
         "xudpProxyUDP443": ""
       },
-      "protocol": "trojan",
+      "protocol": "vless",
       "settings": {
-        "servers": [
+        "vnext": [
           {
-            "address": "v8.oneshieldstore.shop",
-            "flow": "",
-            "level": 8,
-            "method": "chacha20-poly1305",
-            "ota": false,
-            "password": "6LhRqYqGP3",
-            "port": 443
+            "address": "v1.oneshieldstore.shop",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "ec98ba70-8865-4657-af83-5baae1cd8df2",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
           }
         ]
       },
       "streamSettings": {
-        "network": "tcp",
-        "security": "tls",
-        "tcpSettings": {
-          "header": {
-            "type": "none"
-          }
-        },
-        "tlsSettings": {
-          "allowInsecure": true,
-          "fingerprint": "",
-          "publicKey": "",
-          "serverName": "aka.ms",
-          "shortId": "",
-          "show": false,
-          "spiderX": ""
+        "network": "ws",
+        "security": "",
+        "wsSettings": {
+          "headers": {
+            "Host": "m.zoom.us"
+          },
+          "path": ""
         }
       },
       "tag": "proxy"
