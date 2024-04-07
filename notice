@@ -1,5 +1,24 @@
 {
   "Version": "1.2",
-  "Servers": [],
+  "Servers": [
+    {
+      "Name": "Server 1",
+      "subName": "Subname 1",
+      "Flag": "flag_us",
+      "Type": 1
+    },
+    {
+      "Name": "Server 2",
+      "subName": "Subname 2",
+      "Flag": "flag_dk",
+      "Type": 2
+    },
+    {
+      "Name": "Server 3",
+      "subName": "Subname 3",
+      "Flag": "flag_lk",
+      "Type": 3
+    }
+  ],
   "Payloads": []
 }
